@@ -143,10 +143,10 @@ jupyter notebook notebooks/Phase2_Results.ipynb
 
 | Task | Status |
 |---|---|
-| Train model on unlabelled dataset | ✅ PointNet++ autoencoder — Chamfer loss 0.053 → 0.011 |
-| Fine-tune encoder for classification | ✅ AUC 0.765 (PointNet++), 0.796 (SparseMLP) |
-| Prune model + FLOPS vs error plot | ✅ 3 models × 10 pruning ratios |
-| Bonus: sparse autoencoder benchmark | ✅ SparseMLP 4.2× fewer FLOPS at higher accuracy |
+| Train model on unlabelled dataset |  PointNet++ autoencoder — Chamfer loss 0.053 → 0.011 |
+| Fine-tune encoder for classification |  AUC 0.765 (PointNet++), 0.796 (SparseMLP) |
+| Prune model + FLOPS vs error plot |  3 models × 10 pruning ratios |
+| Bonus: sparse autoencoder benchmark |  SparseMLP 4.2× fewer FLOPS at higher accuracy |
 
 ---
 
